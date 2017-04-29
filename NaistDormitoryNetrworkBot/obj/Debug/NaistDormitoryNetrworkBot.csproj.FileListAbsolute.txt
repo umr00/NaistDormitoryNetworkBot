@@ -1,0 +1,10 @@
+c:\users\kyohei\documents\visual studio 2017\Projects\NaistDormitoryNetrworkBot\NaistDormitoryNetrworkBot\bin\Debug\NaistDormitoryNetrworkBot.exe.config
+c:\users\kyohei\documents\visual studio 2017\Projects\NaistDormitoryNetrworkBot\NaistDormitoryNetrworkBot\bin\Debug\NaistDormitoryNetrworkBot.exe
+c:\users\kyohei\documents\visual studio 2017\Projects\NaistDormitoryNetrworkBot\NaistDormitoryNetrworkBot\bin\Debug\NaistDormitoryNetrworkBot.pdb
+c:\users\kyohei\documents\visual studio 2017\Projects\NaistDormitoryNetrworkBot\NaistDormitoryNetrworkBot\obj\Debug\NaistDormitoryNetrworkBot.exe
+c:\users\kyohei\documents\visual studio 2017\Projects\NaistDormitoryNetrworkBot\NaistDormitoryNetrworkBot\obj\Debug\NaistDormitoryNetrworkBot.pdb
+c:\users\kyohei\documents\visual studio 2017\Projects\NaistDormitoryNetrworkBot\NaistDormitoryNetrworkBot\bin\Debug\CoreTweet.dll
+c:\users\kyohei\documents\visual studio 2017\Projects\NaistDormitoryNetrworkBot\NaistDormitoryNetrworkBot\bin\Debug\Newtonsoft.Json.dll
+c:\users\kyohei\documents\visual studio 2017\Projects\NaistDormitoryNetrworkBot\NaistDormitoryNetrworkBot\bin\Debug\CoreTweet.xml
+c:\users\kyohei\documents\visual studio 2017\Projects\NaistDormitoryNetrworkBot\NaistDormitoryNetrworkBot\bin\Debug\Newtonsoft.Json.xml
+c:\users\kyohei\documents\visual studio 2017\Projects\NaistDormitoryNetrworkBot\NaistDormitoryNetrworkBot\obj\Debug\NaistDormitoryNetrworkBot.csprojResolveAssemblyReference.cache
