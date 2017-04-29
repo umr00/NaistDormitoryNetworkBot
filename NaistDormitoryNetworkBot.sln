@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaistDormitoryNetrworkBot", "NaistDormitoryNetrworkBot\NaistDormitoryNetrworkBot.csproj", "{E4B226CA-8D70-4494-BE9F-54615053836E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaistDormitoryNetworkBot", "NaistDormitoryNetworkBot\NaistDormitoryNetworkBot.csproj", "{E4B226CA-8D70-4494-BE9F-54615053836E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

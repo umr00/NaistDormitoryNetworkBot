@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using CoreTweet;
 
-namespace NaistDormitoryNetrworkBot
+namespace NaistDormitoryNetworkBot
 {
     class Twitter
     {
